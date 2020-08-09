@@ -4,8 +4,14 @@ navbar:
   title: "My Project Site"
   left:
    - text: "Home"
+     icon: fa-home
      href: index.html
    - text: "GIS Work"
      href: geog176A.html
-     
+   right: 
+   - icon: fa-github
+     href: https://github.com/conor-dunn/Conor-Dunn
+output: 
+   html_document:
+    theme: darkly 
   
