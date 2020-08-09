@@ -1,0 +1,13 @@
+---
+title: "Projects"
+---
+
+In the summer of 2020 I took a class GIS course based in R. I learned how to use the tools in R in order to manipulate and sort data. Here is some of the work I did...
+
+   [Building a project website]()
+  
+  **In this assignment I...**
+  
+   - learned how to build a static users site with Github Pages
+   - was introduced to the tools of Rmarkdown, Rstudio, and Github
+   - became familiar with the commands necessary to create a website

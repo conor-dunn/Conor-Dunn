@@ -1,0 +1,11 @@
+name: "first-website"
+output_dir: "."
+navbar: 
+  title: "My Project Site"
+  left:
+   - text: "Home"
+     href: index.html
+   - text: "GIS Work"
+     href: geog176A.html
+     
+  
