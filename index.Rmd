@@ -1,0 +1,16 @@
+---
+title: "About Me"
+---
+
+
+
+
+<center> 
+# Hello, I'm Conor Dunn
+</center>
+
+I am currently a third year undergraduate student majoring in Geography at the University of California Santa Barbara. I have always had an interest in the environment and sustainablility which has led me to my current studies. I am also a part of the university's division one men's volleyball team which has taught me about the importance of time management and leadership. 
+
+<center>
+![](img/personal-image.png)
+

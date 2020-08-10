@@ -1,0 +1,21 @@
+name: "First-website"
+output_dir: "."
+navbar:
+  title: "Conor Dunn"
+  left:
+    - text: "Home"
+      icon: fa-home
+      href: index.html
+    - text: "GIS Work"
+      icon: fa-globe
+      href: geog176A.html
+    - text: "CV"
+      icon: fa-rocket
+      href: CV.html
+  right:
+    - icon: fa-github
+      href: https://github.com/conor-dunn/Conor-Dunn
+output:
+  html_document:
+    theme: darkly
+  

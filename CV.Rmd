@@ -1,0 +1,17 @@
+---
+title: "Resume"
+output:
+  html_document: default
+  theme: darkly
+---
+
+## **Education**
+  -High School diploma from Brophy College Preparatory
+  
+  -Third year at University of California, Santa Barbara
+  
+---
+  
+## **Experience**
+  -2018-2019 I helped organize and run the UCSB Men's Volleyball summer camps
+  
