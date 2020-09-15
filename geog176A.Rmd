@@ -11,3 +11,30 @@ In the summer of 2020 I took a class GIS course based in R. I learned how to use
    - learned how to build a static users site with Github Pages
    - was introduced to the tools of Rmarkdown, Rstudio, and Github
    - became familiar with the commands necessary to create a website
+   
+   [Lab-02](file:///Users/conordunn/github/geog-176A-labs/docs/lab02.html)
+   
+   - I learned how to read in data
+   - I was able to manipulate the data to create tables
+   - Learned how to calculate a rolling average
+   
+   [Lab-03](unable to knit (Rmd on Guachospace))
+   
+   - learned about coordinate systems
+   - Was able to calculate the distance from US cities to different borders
+   - learned the importance of naming functions
+   
+   [Lab-04](unable to knit (Rmd on guachospace))
+   
+   - Used tessellations to map dams across the US
+   - wrote and used functions to help shorten the coding process
+   - utilized the tool of point-in-polygon counts to see dam distribution
+   
+   [Lab-05](unable to knit (Rmd on Guachospace))
+   
+   - created multi-band raster files
+   - Analyzed flood data from Palo Iowa
+   - was introduced to using layers
+   
+   
+   # Labs 3-5 were not knitting, so the Rmd's are on Guachospace.
